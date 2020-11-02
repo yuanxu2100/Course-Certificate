@@ -15,4 +15,4 @@
 #### 3.Detecting COVID-19 with Chest X-ray using Pytorch
 #### 4.Facial Expression Recognition with Keras
 #### 5.Perform Real-Time Object Detection with YOLOv3
-#### 5.Transfer Learning for NLP with TensorFlow Hub
+#### 6.Transfer Learning for NLP with TensorFlow Hub
