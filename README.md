@@ -9,7 +9,12 @@
 #### 2.Fundamentals of Digtal Image and Video Processing
 #### 3.The Effect of Fires on People, Property, and the Environment
 #### 4.Ecology: Ecosystem Dynamics and Conservation
-  
+#### 5.Machine Learning Specialization:
+####  ——Machine Learning Foundations: A Case Study Approach
+####  ——Machine Learning: Regression
+####  ——Machine Learning: Classification
+####  ——Machine Learning: Clustering & Retrieval
+
 ### Porjects:
 #### 1.Computer Vision:Object Detection with OpenCv and Python
 #### 2.Computer Vision:Object Tracking with OpenCV and Python
