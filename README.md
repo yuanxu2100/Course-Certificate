@@ -24,7 +24,7 @@
 ####  ——Number Theory and Cryptography
 ####  ——Combinatorics and Probability
 ####  ——Delivery Problem
-
+#### 8. The Complete AP and College Physics Course
 
 ### Porjects:
 #### 1.Computer Vision:Object Detection with OpenCv and Python
