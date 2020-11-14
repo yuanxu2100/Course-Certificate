@@ -14,6 +14,10 @@
 ####  ——Machine Learning: Regression
 ####  ——Machine Learning: Classification
 ####  ——Machine Learning: Clustering & Retrieval
+#### 6.AI for Medicine Specialization:
+####  ——AI for Medical Diagnosis
+####  ——AI for Medical Prognosis
+####  ——AI for Medical Treatment
 
 ### Porjects:
 #### 1.Computer Vision:Object Detection with OpenCv and Python
