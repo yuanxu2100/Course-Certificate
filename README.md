@@ -22,7 +22,6 @@
 ####  ——Mathematical Thinking in Computer Science
 ####  ——Introduction to Graph Theory
 ####  ——Number Theory and Cryptography
-####  ——Mathematical Thinking in Computer Science
 ####  ——Combinatorics and Probability
 ####  ——Delivery Problem
 
