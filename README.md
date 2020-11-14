@@ -18,6 +18,14 @@
 ####  ——AI for Medical Diagnosis
 ####  ——AI for Medical Prognosis
 ####  ——AI for Medical Treatment
+#### 7. Introduction to Discrete Mathematics for Computer Science:
+####  ——Mathematical Thinking in Computer Science
+####  ——Introduction to Graph Theory
+####  ——Number Theory and Cryptography
+####  ——Mathematical Thinking in Computer Science
+####  ——Combinatorics and Probability
+####  ——Delivery Problem
+
 
 ### Porjects:
 #### 1.Computer Vision:Object Detection with OpenCv and Python
